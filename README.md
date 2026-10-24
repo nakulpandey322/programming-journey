@@ -1,6 +1,4 @@
-
 # 🚀 Programming Journey
-
 Welcome to my Programming Journey repository!
 
 This repository documents my journey of learning programming, solving coding problems, and building a strong foundation in Computer Science. I regularly upload solutions, notes, and practice programs while exploring different programming languages and concepts.
